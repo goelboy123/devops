@@ -1,7 +1,0 @@
-print("haree ks shaar")
-      
-
-
-
-
-
